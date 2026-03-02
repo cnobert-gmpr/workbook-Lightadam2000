@@ -1,0 +1,14 @@
+Adam Kent Assignment 02 Accomplishments:
+
+Functional Requirements
+
+- Playable level [2/2]
+- Flippers [2/2]
+- Launcher and channel [2/2]
+- Bumpers with visual feedback [2/2]
+- Drop targets [2/2]
+- Coordinated timed drop target reset [3/3]
+- Temporary collision disable [2/2]
+- Respawn delay with control lock [2/2]
+- Alternating bumper state [0/2]
+- Submission requirements met (GitHub + Brightspace match, completed markers) [x/1]
