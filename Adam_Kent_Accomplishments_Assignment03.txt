@@ -1,0 +1,13 @@
+Adam Kent Assignment 03 Accomplishments:
+
+Functional Requirements
+	•	Player movement [2/2]
+	•	Alien formation patrol and step-down [4/4]
+	•	Alien projectiles [1/1]
+	•	Projectile cleanup [1/1]
+	•	Formation spawned by script [0/2]
+	•	Two alien types [2/2]
+	•	Player projectile [3/3]
+	•	Hit detection and destruction [2/2]
+	•	Defensive barriers [2/2]
+	•	Submission requirements [1/1]
